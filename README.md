@@ -1,1 +1,1 @@
-generate random numbers and divide it between even and odd using javascript
+generate random numbers and classify between even and odd using javascript
